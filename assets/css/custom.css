@@ -1,0 +1,18 @@
+.text-bold {
+	font-weight: bold;
+}
+
+.help-block {
+	margin-bottom: 0;
+}
+
+td .status{color:#FFF !important; padding:3px; margin:-2px}
+td .status.success{background:#01a65a !important}
+td .status.pending{background:#f39c12 !important}
+td .status.cancel{background:#dd4b39 !important}
+
+.table th,
+.table > thead > tr,
+.table-bordered>thead>tr>th {
+	background-color: #f9f9f9;
+}

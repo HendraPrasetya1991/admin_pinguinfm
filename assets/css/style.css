@@ -1,0 +1,17 @@
+hr {
+	border-width: 2px;
+	border-color: #ccc;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.ice-bg {
+	background: url('../img/background.jpg') no-repeat top center;
+}
+
+.main-logo {
+	width: 50%;
+	display: block;
+	margin: 10px auto;
+	height: auto;
+}
